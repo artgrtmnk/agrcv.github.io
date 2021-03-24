@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    background: url("../img/bk6.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    font-size: 18px;
+        }
+
+.cd {
+    width: 425px;
+    margin: 20px auto;
+    background-color: #ccc;
+    box-shadow: 0 5px 10px rgb(131, 130, 130);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.cdf {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0px auto;
+    border-radius: 40%;
+}
+
+.cdname {
+    font-size: 25px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.cdsubname {
+    font-size: 18px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.cdtxt {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(0, 0, 0);
+    margin-bottom:  -10px;
+    }
+
+.cdtxt2 {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(0, 0, 0);
+    margin-bottom:  -10px;
+    text-align: justify;
+        }
+
+ .cdtxtramka {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    margin-bottom:  -5px;
+    }
+
+.cdskills {
+    margin-bottom: -10px;
+    font-size: 18px;
+    font-family: 'Courier', Courier, monospace;
+    color:rgb(0, 0, 0);
+       }
+
+.cdlist {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+    margin-bottom:  -10px;
+    font-family: 'Courier New', Courier, monospace;
+       }
+
+.ramka {
+    border: 2px solid black;
+    padding: 5px;
+    margin: -10px auto;
+}
+
+.par {
+    margin: 0px;
+}
+
+.par2 {
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.par3 {
+    margin-bottom: 10px;
+    margin-top: 3px;
+    text-align: center;
+}
