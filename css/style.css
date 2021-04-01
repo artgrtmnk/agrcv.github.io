@@ -44,7 +44,7 @@ body {
     }
 
 .cdtxt2 {
-    font-size: 15px;
+    font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
     color:rgb(0, 0, 0);
     margin-bottom:  -10px;
@@ -60,7 +60,7 @@ body {
 
 .cdskills {
     margin-bottom: -10px;
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Courier', Courier, monospace;
     color:rgb(0, 0, 0);
        }
@@ -68,7 +68,7 @@ body {
 .cdlist {
     padding-left: 0;
     list-style-position: inside;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom:  -10px;
     font-family: 'Courier New', Courier, monospace;
        }
@@ -96,5 +96,5 @@ body {
 
 .link {
     text-align: center;
-    margin: -10px;
+    margin: 5px;
 }
